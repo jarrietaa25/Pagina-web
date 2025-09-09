@@ -1,0 +1,33 @@
+.imagenindex{
+    height: 60px;
+    width: 40px;
+    justify-content: center;
+    display: flex;
+    margin-left: 50px;
+}
+
+.NavBar {
+    list-style-type: none;
+    margin: 0.5vw;
+    margin-top: 0.5vw;
+    padding: 0.5vw;
+    background-color: #f78765;
+    font-size: 1.7vw;
+    justify-content: center;
+    display: flex;
+    color: white;
+    overflow: hidden;
+    width: 90vw;
+    float: inline-start;
+    border-radius: 3vw;
+    
+  }
+.hola{
+    font-size: 30px;
+}
+
+
+
+*{
+    background-color: #f78765;
+}
