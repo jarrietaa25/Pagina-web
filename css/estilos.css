@@ -6,21 +6,41 @@
     margin-left: 50px;
 }
 
-.NavBar {
+
+
+
+
+.subtitulo {
+        font-size:  3vw;
+        font-family: 'Urbanist', sans-serif;
+        text-align: center;
+        height: 3vw;
+    }
+
+
+
+.navbar{
     list-style-type: none;
-    margin: 0.5vw;
-    margin-top: 0.5vw;
-    padding: 0.5vw;
-    background-color: #f78765;
-    font-size: 1.7vw;
-    justify-content: center;
-    display: flex;
-    color: white;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
-    width: 90vw;
-    float: inline-start;
-    border-radius: 3vw;
-    
+    background-color: white;
+    display: flex;
+   justify-content: space-between;
+   border-style:solid;
+    border-color: red;
+  }
+  
+  .menubar{
+    display: flex;
+    color: yellow;
+    padding: 1.4vw 1.6vw;
+    text-decoration: none;
+    background-color: whitesmoke;
+    font-size: 3vw;
+    font-family: 'Urbanist', sans-serif;
+    border-style:solid;
+    border-color: red;
   }
 .hola{
     font-size: 30px;
@@ -29,5 +49,5 @@
 
 
 *{
-    background-color: #f78765;
+    background-color: whitesmoke;
 }
