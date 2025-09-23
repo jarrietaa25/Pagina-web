@@ -6,6 +6,9 @@
     margin-left: 50px;
 }
 
+ .posicionimagen{ display: flex;
+    justify-content: center;
+    text-align: center;}
 
 
 
@@ -50,4 +53,15 @@
 
 *{
     background-color: whitesmoke;
+}
+
+.sub-text{font-size: 2.5vw;}
+
+.texto {
+  background-color: gray;
+  color: white;
+  padding: 1vw;
+  align-content: center;
+  text-align: center;
+  font-size: 4vw;
 }
