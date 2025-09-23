@@ -12,14 +12,6 @@
 
   }
 
-
-.subtitulo {
-        font-size:  3vw;
-        font-family: 'kode', sans-serif;
-        text-align: center;
-        height: 3vw;
-    }
-
 .texto1{
   font-family: "Kode Mono", monospace;
   font-optical-sizing: large;
@@ -81,6 +73,7 @@
 
 .texto {
   background-color: gray;
+  font-family: "Kode Mono", monospace;
   color: black;
   padding: 3vw;
   align-content: left;
