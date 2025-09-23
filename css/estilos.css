@@ -20,7 +20,12 @@
         height: 3vw;
     }
 
-
+.kode{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style : normal; 
+}
 
 .navbar{
     list-style-type: none;
