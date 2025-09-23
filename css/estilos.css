@@ -3,17 +3,19 @@
     width: 40px;
     justify-content: center;
     display: flex;
-    margin-left: 50px;
+    margin-left: 500px;
 }
 
  .posicionimagen{ display: flex;
     justify-content: center;
-    text-align: center;}
+    text-align: center;
+
+  }
 
 
 .subtitulo {
         font-size:  3vw;
-        font-family: 'Urbanist', sans-serif;
+        font-family: 'kode', sans-serif;
         text-align: center;
         height: 3vw;
     }
@@ -29,7 +31,17 @@
   font-family: "Kode Mono", monospace;
   font-optical-sizing: auto;
   font-weight: weight;
-  font-style : normal; 
+  font-style : normal;
+  padding: 3vw;
+  align-content: left;
+  text-align: center; 
+}
+
+.texto3{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style : small; 
 }
 
 .navbar{
@@ -37,7 +49,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: yellow;
     display: flex;
    justify-content: space-between;
    border-style:solid;
@@ -46,14 +58,14 @@
   
   .menubar{
     display: flex;
-    color: yellow;
+    color: black;
     padding: 1.4vw 1.6vw;
     text-decoration: none;
-    background-color: whitesmoke;
-    font-size: 3vw;
-    font-family: 'Urbanist', sans-serif;
+    background-color: yellow;
+    font-size: 2vw;
+    font-family: 'koda', sans-serif;
     border-style:solid;
-    border-color: red;
+    border-color: yellow;
   }
 .hola{
     font-size: 30px;
@@ -69,9 +81,9 @@
 
 .texto {
   background-color: gray;
-  color: white;
-  padding: 1vw;
-  align-content: center;
+  color: black;
+  padding: 3vw;
+  align-content: left;
   text-align: center;
-  font-size: 4vw;
+  font-size: 2vw;
 }
