@@ -41,3 +41,10 @@
     border-style:solid;
     border-color: yellow;
   }
+
+
+   .pie{
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+  }
