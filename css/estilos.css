@@ -22,6 +22,9 @@
   font-optical-sizing: large;
   font-weight: weight;
   font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
 }
 
 .texto2{
