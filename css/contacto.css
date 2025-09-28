@@ -7,23 +7,23 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #b398b5;
+    background-color: yellow;
     display: flex;
    justify-content: space-between;
    border-style:solid;
-    border-color: #812b87;
+    border-color: red;
   }
   
   .menubar{
     display: flex;
-    color: white;
+    color: black;
     padding: 1.4vw 1.6vw;
     text-decoration: none;
-    background-color: #b398b5;
-    font-size: 3vw;
-    font-family: 'Urbanist', sans-serif;
+    background-color: yellow;
+    font-size: 2vw;
+    font-family: 'koda', sans-serif;
     border-style:solid;
-    border-color: #b398b5;
+    border-color: yellow;
   }
   .contacto{text-align: center;}
   

@@ -18,4 +18,26 @@
     font-size: 30px;
 }
 
-
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: yellow;
+    display: flex;
+   justify-content: space-between;
+   border-style:solid;
+    border-color: red;
+  }
+  
+  .menubar{
+    display: flex;
+    color: black;
+    padding: 1.4vw 1.6vw;
+    text-decoration: none;
+    background-color: yellow;
+    font-size: 2vw;
+    font-family: 'koda', sans-serif;
+    border-style:solid;
+    border-color: yellow;
+  }

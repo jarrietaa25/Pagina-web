@@ -18,3 +18,30 @@ grid-row-gap: 0px;
 .div10 { grid-area: 3 / 2 / 4 / 3; }
 .div11 { grid-area: 3 / 3 / 4 / 4; }
 .div12 { grid-area: 3 / 4 / 4 / 5; }
+
+
+
+
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: yellow;
+    display: flex;
+   justify-content: space-between;
+   border-style:solid;
+    border-color: red;
+  }
+  
+  .menubar{
+    display: flex;
+    color: black;
+    padding: 1.4vw 1.6vw;
+    text-decoration: none;
+    background-color: yellow;
+    font-size: 2vw;
+    font-family: 'koda', sans-serif;
+    border-style:solid;
+    border-color: yellow;
+  }

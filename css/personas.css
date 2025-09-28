@@ -14,3 +14,28 @@ grid-row-gap: 0px;
 .div6 { grid-area: 3 / 2 / 4 / 4; }
 .div7 { grid-area: 4 / 1 / 5 / 2; }
 .div8 { grid-area: 4 / 2 / 5 / 4; }
+
+
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: yellow;
+    display: flex;
+   justify-content: space-between;
+   border-style:solid;
+    border-color: red;
+  }
+  
+  .menubar{
+    display: flex;
+    color: black;
+    padding: 1.4vw 1.6vw;
+    text-decoration: none;
+    background-color: yellow;
+    font-size: 2vw;
+    font-family: 'koda', sans-serif;
+    border-style:solid;
+    border-color: yellow;
+  }
