@@ -1,3 +1,8 @@
+.fondo{
+  background-color: rgb(108, 100, 100);
+}
+
+
 .imagenindex{
     height: 60px;
     width: 40px;
@@ -87,3 +92,5 @@
   padding: auto;
   justify-content: center;
 }
+
+
