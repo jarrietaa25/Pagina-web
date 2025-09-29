@@ -1,5 +1,5 @@
 .fondo{
-  background-color: rgb(108, 100, 100);
+  background-color:lightgray;
 }
 
 
@@ -51,8 +51,8 @@
     overflow: hidden;
     background-color: yellow;
     display: flex;
-   justify-content: space-between;
-   border-style:solid;
+    justify-content: space-between;
+    border-style:solid;
     border-color: red;
   }
   
@@ -67,12 +67,6 @@
     border-style:solid;
     border-color: yellow;
   }
-.hola{
-    font-size: 30px;
-}
-
-
-
 
 .sub-text{font-size: 2.5vw;}
 
@@ -87,15 +81,15 @@
 }
 .cuadro{
   background-color: gray;
-  border-radius: 10%;
+  border-radius: 40%;
   margin: auto;
   padding: auto;
   justify-content: center;
 }
 
 
- .pie{
+.pie{
     justify-content: center;
     align-items: center;
-    background-color: lightgray;
+    background-color: rgb(165, 163, 163);
   }

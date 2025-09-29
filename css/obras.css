@@ -1,21 +1,5 @@
-.NavBar {
-    list-style-type: none;
-    margin: 0.5vw;
-    margin-top: 0.5vw;
-    padding: 0.5vw;
-    background-color: #f78765;
-    font-size: 1.7vw;
-    justify-content: center;
-    display: flex;
-    color: white;
-    overflow: hidden;
-    width: 90vw;
-    float: inline-start;
-    border-radius: 3vw;
-    
-  }
-.hola{
-    font-size: 30px;
+.fondo{
+  background-color:lightgray;
 }
 
 .navbar{
@@ -43,8 +27,9 @@
   }
 
 
-   .pie{
+.pie{
     justify-content: center;
     align-items: center;
-    background-color: lightgray;
+    background-color: rgb(165, 163, 163);
   }
+

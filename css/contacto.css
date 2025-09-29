@@ -67,5 +67,10 @@ body{
   .pie{
     justify-content: center;
     align-items: center;
-    background-color: lightgray;
+    background-color: rgb(165, 163, 163);
   }
+
+
+  .fondo{
+  background-color:lightgray;
+}
