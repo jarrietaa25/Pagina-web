@@ -9,6 +9,9 @@
 }
 
 
+.fondo{
+  background-color:lightgray;
+}
 
 .parent {
 display: grid;
@@ -143,3 +146,32 @@ border-radius: 20px;
     align-items: center;
     background-color: rgb(165, 163, 163);
   }
+
+    .img-fluid2{
+  border-radius: 8%;
+  margin: auto;
+  padding: auto;
+  justify-content: left;
+  width: 50;
+}
+
+
+
+.copyright{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+  
+}
+
+.img-fluid3{
+  border-radius: 8%;
+  margin: auto;
+  padding: auto;
+  justify-content: flex-end;
+  width: 50;
+}

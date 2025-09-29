@@ -102,13 +102,7 @@
   width: 50;
 }
 
-.img-fluid3{
-  border-radius: 8%;
-  margin: auto;
-  padding: auto;
-  justify-content: right;
-  width: 50;
-}
+
 
 .copyright{
   font-family: "Kode Mono", monospace;
@@ -118,4 +112,13 @@
   margin: auto;
   padding: auto;
   justify-content: center;
+  
+}
+
+.img-fluid3{
+  border-radius: 8%;
+  margin: auto;
+  padding: auto;
+  justify-content: flex-end;
+  width: 50;
 }

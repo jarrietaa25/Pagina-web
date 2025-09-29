@@ -1,3 +1,10 @@
+.fondo{
+  background-color:lightgray;
+}
+
+
+
+
 .parent {
 display: grid;
 grid-template-columns: repeat(4, 1fr);
@@ -20,7 +27,15 @@ grid-row-gap: 0px;
 .div12 { grid-area: 3 / 4 / 4 / 5; }
 
 
-
+.texto1{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+}
 
 .navbar{
     list-style-type: none;
@@ -52,5 +67,34 @@ grid-row-gap: 0px;
     background-color: lightgray;
   }
 
+
+    .img-fluid2{
+  border-radius: 8%;
+  margin: auto;
+  padding: auto;
+  justify-content: left;
+  width: 50;
+}
+
+
+
+.copyright{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+  
+}
+
+.img-fluid3{
+  border-radius: 8%;
+  margin: auto;
+  padding: auto;
+  justify-content: flex-end;
+  width: 50;
+}
 
   
