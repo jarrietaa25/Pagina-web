@@ -46,24 +46,11 @@ grid-row-gap: 0px;
     border-color: yellow;
   }
 
-  .pie{
+   .pie{
     justify-content: center;
     align-items: center;
-    background-color: rgb(165, 163, 163);
+    background-color: lightgray;
   }
 
 
-
-  .fondo{
-  background-color:lightgray;
-}
-
-.texto1{
-  font-family: "Kode Mono", monospace;
-  font-optical-sizing: large;
-  font-weight: weight;
-  font-style : normal; 
-  margin: auto;
-  padding: auto;
-  justify-content: center;
-}
+  
