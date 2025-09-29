@@ -74,3 +74,23 @@ body{
   .fondo{
   background-color:lightgray;
 }
+
+
+.contacto2{
+  background-color: whitesmoke;
+  border-radius: 20px;
+  padding: 2vw;
+  margin: auto;
+  width: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.botton{
+  text-align: center;
+  margin-top: 2vw;
+  border-radius: 20px;
+  padding: 2vw;
+  margin: auto;
+  width: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
