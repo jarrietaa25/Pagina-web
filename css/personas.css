@@ -147,11 +147,11 @@ border-radius: 20px;
     background-color: rgb(165, 163, 163);
   }
 
-    .img-fluid2{
+.img-fluid2{
   border-radius: 8%;
   margin: auto;
   padding: auto;
-  justify-content: left;
+  justify-content: flex-start;
   width: 50;
 }
 

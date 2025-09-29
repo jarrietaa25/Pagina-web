@@ -1,7 +1,15 @@
 .fondo{
   background-color:lightgray;
 }
-
+.texto1{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+}
 
 
 
@@ -54,21 +62,6 @@ grid-row-gap: 0px;
     align-items: center;
     background-color: rgb(165, 163, 163);
   }
-
-
-  .fondo{
-  background-color:lightgray;
-}
-
-.texto1{
-  font-family: "Kode Mono", monospace;
-  font-optical-sizing: large;
-  font-weight: weight;
-  font-style : normal; 
-  margin: auto;
-  padding: auto;
-  justify-content: center;
-}
 
   .img-fluid2{
   border-radius: 8%;
