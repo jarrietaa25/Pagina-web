@@ -63,11 +63,12 @@ grid-row-gap: 0px;
     background-color: rgb(165, 163, 163);
   }
 
+
   .img-fluid2{
   border-radius: 8%;
   margin: auto;
   padding: auto;
-  justify-content: left;
+  justify-content: flex-start;
   width: 50;
 }
 
@@ -88,6 +89,6 @@ grid-row-gap: 0px;
   border-radius: 8%;
   margin: auto;
   padding: auto;
-  justify-content: flex-end;
+  justify-content: right;
   width: 50;
 }
