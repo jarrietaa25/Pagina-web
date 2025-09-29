@@ -26,6 +26,16 @@
     border-color: yellow;
   }
 
+.letras{
+   font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+}
+
 
 .pie{
     justify-content: center;
@@ -34,11 +44,11 @@
   }
 
 
-  .texto{
+  .texto5{
     font-family: "Kode Mono", monospace;
-    font-optical-sizing: auto;
+    font-optical-sizing: large;
     font-weight: weight;
-    font-style : x-large; 
+    font-style : normal; 
     background-color: gray;
     border-radius: 40%;
     margin: auto;
