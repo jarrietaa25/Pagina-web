@@ -72,13 +72,9 @@
 }
 
 
-.pie{
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(165, 163, 163);
+.footer-basic{
+    background-color: whitesmoke;
   }
-
-
 
   .img-fluid2{
   border-radius: 8%;
@@ -99,13 +95,7 @@
   width: 50;
   justify-content:flex-end;
 }
-.foot{
-  justify-content: right;
-  align-items: right;
-  display:inline-block;
-  text-align:right;
-  justify-content:flex-end;
-}
+
 
 .Nombre{
   font-family: "Kode Mono", monospace;

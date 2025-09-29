@@ -141,22 +141,32 @@ border-radius: 20px;
   background-color:lightgray;
 }
 
-.pie{
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(165, 163, 163);
+.footer-basic{
+    background-color: whitesmoke;
   }
 
-.img-fluid2{
+  .img-fluid2{
   border-radius: 8%;
   margin: auto;
   padding: auto;
-  justify-content: flex-start;
+  justify-content: center;
+  align-items: center;
   width: 50;
 }
 
 
-.copyright{
+
+.img-fluid3{
+  border-radius: 8%;
+  margin: auto;
+  padding: auto;
+  align-items: center;
+  width: 50;
+  justify-content:flex-end;
+}
+
+
+.Nombre{
   font-family: "Kode Mono", monospace;
   font-optical-sizing: large;
   font-weight: weight;
@@ -164,12 +174,6 @@ border-radius: 20px;
   margin: auto;
   padding: auto;
   justify-content: center;
-}
-
-.img-fluid3{
-  border-radius: 8%;
-  margin: auto;
-  padding: auto;
-  justify-content: flex-end;
-  width: 50;
+  text-align:center;
+  
 }

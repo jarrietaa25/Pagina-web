@@ -37,23 +37,19 @@
 }
 
 
-.pie{
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(165, 163, 163);
-  }
 
 
-  .texto5{
+  .titulo1{
     font-family: "Kode Mono", monospace;
-    font-optical-sizing: large;
+    font-optical-sizing: 10%;
+    font-size: x-large;
     font-weight: weight;
-    font-style : normal; 
-    background-color: gray;
-    border-radius: 40%;
+    font-style : bold; 
     margin: auto;
-    padding: auto;
+    padding: 2%;
     justify-content: center;
+    background-color: gray;
+    border-radius: 50%;
   }
 
 
@@ -80,23 +76,32 @@
 }
 
 
-.img-fluid2{
+.footer-basic{
+    background-color: whitesmoke;
+  }
+
+  .img-fluid2{
   border-radius: 8%;
   margin: auto;
   padding: auto;
-  justify-content: left;
+  justify-content: center;
+  align-items: center;
   width: 50;
 }
+
+
 
 .img-fluid3{
   border-radius: 8%;
   margin: auto;
   padding: auto;
-  justify-content: right;
+  align-items: center;
   width: 50;
+  justify-content:flex-end;
 }
 
-.copyright{
+
+.Nombre{
   font-family: "Kode Mono", monospace;
   font-optical-sizing: large;
   font-weight: weight;
@@ -104,14 +109,6 @@
   margin: auto;
   padding: auto;
   justify-content: center;
-}
-.esquina{
-  justify-content: right;
-  align-items: right;
-  margin: auto;
-  padding: auto;
-  border-radius: 8%;
-  margin: auto;
-  padding: auto;
-  width: 50;
+  text-align:center;
+  
 }
