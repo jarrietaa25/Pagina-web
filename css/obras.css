@@ -33,3 +33,16 @@
     background-color: rgb(165, 163, 163);
   }
 
+
+  .texto{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style : x-large; 
+    background-color: gray;
+    border-radius: 40%;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+  }
+  
