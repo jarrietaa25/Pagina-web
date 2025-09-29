@@ -1,3 +1,15 @@
+.texto1{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+}
+
+
+
 .parent {
 display: grid;
 grid-template-columns: repeat(3, 1fr);
@@ -6,14 +18,75 @@ grid-column-gap: 0px;
 grid-row-gap: 0px;
 }
 
-.div1 { grid-area: 1 / 1 / 2 / 2; }
-.div2 { grid-area: 1 / 2 / 2 / 4; }
-.div3 { grid-area: 2 / 1 / 3 / 2; }
-.div4 { grid-area: 2 / 2 / 3 / 4; }
-.div5 { grid-area: 3 / 1 / 4 / 2; }
-.div6 { grid-area: 3 / 2 / 4 / 4; }
-.div7 { grid-area: 4 / 1 / 5 / 2; }
-.div8 { grid-area: 4 / 2 / 5 / 4; }
+.div1 { grid-area: 1 / 1 / 2 / 2;
+  width: 200px;
+  height: 200px; 
+  margin: auto;
+  padding: auto;
+  justify-content: left
+ }
+.div2 { grid-area: 1 / 2 / 2 / 4; 
+background-color: gray;
+  font-family: "Kode Mono", monospace;
+  color: black;
+  padding: 3vw;
+  align-content: left;
+  text-align: center;
+  font-size: 2vw;
+border-radius: 20px;
+  padding: 2vw;
+  margin: auto;}
+.div3 { grid-area: 2 / 1 / 3 / 2; 
+width: 200px;
+  height: 200px; 
+  margin: auto;
+  padding: auto;
+  justify-content: left}
+.div4 { grid-area: 2 / 2 / 3 / 4; 
+background-color: gray;
+  font-family: "Kode Mono", monospace;
+  color: black;
+  padding: 3vw;
+  align-content: left;
+  text-align: center;
+  font-size: 2vw;
+border-radius: 20px;
+  padding: 2vw;
+  margin: auto;}
+.div5 { grid-area: 3 / 1 / 4 / 2;
+width: 200px;
+  height: 200px; 
+  margin: auto;
+  padding: auto;
+  justify-content: left }
+.div6 { grid-area: 3 / 2 / 4 / 4; 
+background-color: gray;
+  font-family: "Kode Mono", monospace;
+  color: black;
+  padding: 3vw;
+  align-content: left;
+  text-align: center;
+  font-size: 2vw;
+border-radius: 20px;
+  padding: 2vw;
+  margin: auto;}
+.div7 { grid-area: 4 / 1 / 5 / 2;
+width: 200px;
+  height: 200px; 
+  margin: auto;
+  padding: auto;
+  justify-content: left }
+.div8 { grid-area: 4 / 2 / 5 / 4; 
+background-color: gray;
+  font-family: "Kode Mono", monospace;
+  color: black;
+  padding: 3vw;
+  align-content: left;
+  text-align: center;
+  font-size: 2vw;
+border-radius: 20px;
+  padding: 2vw;
+  margin: auto;}
 
 
 .navbar{

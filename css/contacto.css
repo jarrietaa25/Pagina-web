@@ -94,3 +94,13 @@ body{
   width: 50%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+.texto1{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+}
