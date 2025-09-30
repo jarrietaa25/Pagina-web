@@ -117,10 +117,10 @@ border-radius: 20px;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: yellow;
+    background-color: rgb(193, 182, 182);
     display: flex;
-   justify-content: space-between;
-   border-style:solid;
+    justify-content: space-between;
+    border-style:solid;
     border-color: red;
   }
   
@@ -129,11 +129,11 @@ border-radius: 20px;
     color: black;
     padding: 1.4vw 1.6vw;
     text-decoration: none;
-    background-color: yellow;
+    background-color: rgb(193, 182, 182);
     font-size: 2vw;
     font-family: 'koda', sans-serif;
     border-style:solid;
-    border-color: yellow;
+    border-color: rgb(193, 182, 182);
   }
 
 
