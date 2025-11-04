@@ -22,7 +22,7 @@
              <h1 class="texto1">CONSTRUCTIVISMO</h1>
      <nav>
         <ul class="navbar">
-          <li><a class="menubar" class="texto3" href="index.html">INICIO</a></li>
+          <li><a class="menubar" class="texto3" href="index.php">INICIO</a></li>
           <li><a class="menubar" class="texto3" href="html/artistas.php">ARTISTAS</a></li>
           <li><a class="menubar" class="texto3" href="html/obras.php">OBRAS</a></li>
           <li><a class="menubar" class="texto3" href="html/historia.php">HISTORIA</a></li>
