@@ -1,6 +1,6 @@
 <?php
 
-$conexion = mysqli_connect("nombre hosting", "nombre usuario", "contrasena", "nombre de la base");
+$conexion = mysqli_connect("sql100.infinityfree.com", "if0_39849574", "if0_39849574", "if0_39849574_prueba02");
 
 if (!$conexion) {
     die("Error al conectar con la base de datos: " . mysqli_connect_error());
