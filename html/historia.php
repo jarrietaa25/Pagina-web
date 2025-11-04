@@ -31,9 +31,11 @@
   <div class="row row-cols-2">
     <div class="col"><img src="../imagenes/13.jpg" class="img-fluid" alt="imagenes"></div>
     <div class="col"><div>
+         <p class="texto">Origen y contexto del Constructivismo</p> 
          <p class="texto">El Constructivismo fue una de las vanguardias más influyentes del siglo XX. Nació en Rusia, alrededor de 1915, y se consolidó tras la Revolución de 1917, en un contexto donde el arte se pensaba como herramienta de cambio social. Su centro de desarrollo estuvo en Moscú y en otros espacios vinculados a los artistas e ingenieros que buscaban transformar la vida cotidiana a través de la creación de objetos útiles, funcionales y con un fuerte contenido ideológico.</p>
     </div></div> 
      <div class="col"><div>
+         <p class="texto">Influencias y fundamentos ideológicos</p> 
          <p class="texto">Este movimiento tomó influencias del Cubismo, por su interés en las formas geométricas y la fragmentación; y del Futurismo, por la fascinación con la máquina, la velocidad y la modernidad. También se nutrió de la efervescencia política y cultural de la Revolución Rusa, que impulsaba a los artistas a dejar atrás el arte contemplativo para poner sus conocimientos al servicio de la construcción de una nueva sociedad.</p>
          </div>
           </div>
@@ -42,9 +44,11 @@
         <div class="row row-cols-2">
     <div class="col"><img src="../imagenes/15.jpg" class="img-fluid" alt="imagenes"></div>
     <div class="col"><div>
+          <p class="texto">Legado y evolución del Constructivismo</p>
          <p class="texto">En la actualidad, el Constructivismo se reconoce como un antecedente fundamental del diseño gráfico moderno, del diseño industrial y de la arquitectura funcionalista. Sus principios de orden, geometría y utilidad siguen vigentes en la publicidad, en la tipografía y en el diseño contemporáneo. Asimismo, inspiró a movimientos posteriores como la Bauhaus en Alemania, que compartió su visión de unir arte e industria; al grupo De Stijl en Países Bajos, con su búsqueda de la pureza geométrica; y más adelante, al arte cinético y al minimalismo, que heredaron su apuesta por la abstracción y la funcionalidad.</p>
            </div></div> 
      <div class="col"><div>
+          <p class="texto">Características visuales del Constructivismo</p>
          <p class="texto">El Constructivismo se caracterizó por un lenguaje visual claro y contundente. La geometría y el minimalismo fueron sus pilares, con un uso predominante de líneas rectas, círculos y formas básicas que transmitían orden y modernidad. En cuanto al color, se centraba en una paleta reducida pero poderosa: rojo, negro y blanco, tonos que reforzaban la intensidad y el impacto de cada composición. La tipografía en negrita, generalmente sans-serif, se aplicaba en gran tamaño y con inclinaciones diagonales, generando dinamismo y una sensación de movimiento.</p>
          </div>
         </div>
