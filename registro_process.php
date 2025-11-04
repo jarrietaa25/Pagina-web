@@ -1,5 +1,5 @@
 <?php
-include("db.php");
+include("conexion.php");
 
 $nombre   = $_POST['nombre'];
 $email    = $_POST['email'];
@@ -12,7 +12,7 @@ $sql = "INSERT INTO usuarios (nombre, email, password_hash) VALUES ('$nombre', '
 
 if (mysqli_query($conexion, $sql)) {
 
-    echo "Usuario registrado correctamente. <a href='login.php'>Iniciar sesión</a>";
+    echo "Usuario registrado correctamente. <a href='login.php'>Iniciar sesión</a>;"# cambio lugar comillas
 
 } else {
     

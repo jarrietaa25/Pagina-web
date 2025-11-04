@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("db.php");
+include("db.php"); #??
 
 $email = $_POST['email'];
 $password = $_POST['password'];
@@ -15,7 +15,7 @@ if (mysqli_num_rows($result) > 0) {
     if (password_verify($password, $usuario['password_hash'])) {
         // Guardamos el nombre en la sesión 
         $_SESSION['nombre'] = $usuario['nombre'];
-        header("Location: sesion.php");
+        header("Location: index.php"); #salida a la home
         exit;
     } else {
         echo "Email o contraseña incorrectos.";
