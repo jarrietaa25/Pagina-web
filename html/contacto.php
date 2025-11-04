@@ -18,12 +18,12 @@
              <h1 class="texto1">CONSTRUCTIVISMO</h1>
      <nav>
         <ul class="navbar">
-          <li><a class="menubar" class="texto3" href="../index.html">CONSTRUCTIVISMO</a></li>
-          <li><a class="menubar" class="texto3" href="../html/artistas.html">ARTISTAS</a></li>
-          <li><a class="menubar" class="texto3" href="../html/obras.html">OBRAS</a></li>
-          <li><a class="menubar" class="texto3" href="../html/historia.html">HISTORIA</a></li>
-          <li><a class="menubar" class="texto3" href="../html/galeria.html">GALERIA</a></li>
-          <li><a class="menubar" class="texto3" href="../html/contacto.html">CONTACTO</a></li>
+          <li><a class="menubar" class="texto3" href="../index.html">INICIO</a></li>
+          <li><a class="menubar" class="texto3" href="../html/artistas.php">ARTISTAS</a></li>
+          <li><a class="menubar" class="texto3" href="../html/obras.php">OBRAS</a></li>
+          <li><a class="menubar" class="texto3" href="../html/historia.php">HISTORIA</a></li>
+          <li><a class="menubar" class="texto3" href="../html/galeria.php">GALERIA</a></li>
+          <li><a class="menubar" class="texto3" href="../html/contacto.php">CONTACTO</a></li>
         </ul>
        </nav> 
       </div>  
