@@ -1,3 +1,7 @@
+<?php
+include("conexion.php");
+
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 </style>
@@ -27,6 +31,17 @@
         </ul>
        </nav> 
       </div>  
+      <div class="cajabuscar"><form method="get" id="buscarform">
+    <fieldset>
+        <input type="text" id="s" value="" placeholder="Buscar"  />
+        <input class="button" type="submit" value="" />
+        <i class="search"></i>
+    </fieldset>
+    </form></div>
+
+
+
+
         <div class="parent">
             <div class="div1"><img src="../imagenes/Vladimir_Tatlin,_1918.jpg" class="img-fluid" alt=""> </div>
             <div class="div2">Vladimir Tatlin: (1885–1953): Grandes pionero del constructivismo ruso. Artista, arquitecto y diseñador. Defendía que el arte debía ponerse al servicio de la vida cotidiana y la revolución. </div>

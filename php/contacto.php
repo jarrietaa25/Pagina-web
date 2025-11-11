@@ -1,3 +1,6 @@
+<?php
+include("conexion.php");
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 </style>
@@ -78,3 +81,25 @@
 </body>
 
 </html>
+
+
+
+<?php
+// Verifica si el formulario fue enviado usando el método POST
+// $_SERVER["REQUEST_METHOD"] contiene el tipo de solicitud que hizo el usuario (GET, POST, etc.)
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $nombre = $_POST["nombre"];
+    $email = $_POST["email"];
+    $asunto = $_POST["asunto"];
+    $mensaje = $_POST["mensaje"];
+
+    $para = "tu_correo@ejemplo.com"; // Cambiá por tu correo
+    $cabeceras = "From: $email";
+
+    if (mail($para, $asunto, $mensaje, $cabeceras)) {
+        echo "<h3>Tu consulta fue enviada correctamente.</h3>";
+    } else {
+        echo "<h3>Error al enviar el mensaje.</h3>";
+    }
+}
+?>

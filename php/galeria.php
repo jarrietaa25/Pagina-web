@@ -1,3 +1,6 @@
+<?php
+include("conexion.php");
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 </style>

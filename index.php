@@ -1,3 +1,8 @@
+<?php
+session_start();
+include("conexion.php");
+
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 </style>
@@ -20,17 +25,10 @@
     <main>
         <div> 
              <h1 class="texto1">CONSTRUCTIVISMO</h1>
-     <nav>
-        <ul class="navbar">
-          <li><a class="menubar" class="texto3" href="index.php">INICIO</a></li>
-          <li><a class="menubar" class="texto3" href="html/artistas.php">ARTISTAS</a></li>
-          <li><a class="menubar" class="texto3" href="html/obras.php">OBRAS</a></li>
-          <li><a class="menubar" class="texto3" href="html/historia.php">HISTORIA</a></li>
-          <li><a class="menubar" class="texto3" href="html/galeria.php">GALERIA</a></li>
-          <li><a class="menubar" class="texto3" href="html/contacto.php">CONTACTO</a></li>
-        </ul>
-       </nav> 
-      </div>  
+             <img href="login.php" src="../imagenes/inicio.png" alt="icino" class="img-fluid4">
+      </div> 
+        
+
 
     <h1 class="titulos">El constructivismo es una corriente de pensamiento que afirma que el conocimiento se construye activamente por el individuo, en lugar de ser recibido de forma pasiva. 
     </h1>
@@ -81,3 +79,4 @@
 </body>
   
 </html>
+
