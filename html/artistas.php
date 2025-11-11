@@ -36,13 +36,13 @@
             <div class="div6">Antoine Pevsner: (1884 – 1962) fue un escultor ruso-francés, considerado una de las figuras centrales del constructivismo junto con su hermano Naum Gabo.</div>
             <div class="div7"><img src="../imagenes/Naum_Gabo.jpg" class="img-fluid" alt=""></div>
             <div class="div8">Naum Gabo: (1890–1977): Escultor y teórico ruso. Trabajó junto a su hermano Antón Pevsner, con quien compartió ideas y proyectos.Creía que el artista debía actuar como un inventor en diálogo con la ciencia y la tecnología.</div>
-            <div class="div9"><img src="" class="img-fluid" alt=""></div>
+            <div class="div9"><img src="../imagenes/Alexander Rodchenko.jpg" class="img-fluid" alt=""></div>
             <div class="div10">Alexander Rodchenko (1891–1956):Artista multifacético, trabajó en pintura, escultura, fotografía y diseño gráfico. Propuso reemplazar el arte decorativo por un arte útil, aplicado a la comunicación visual y a la industria. Sus composiciones geométricas y su uso del fotomontaje marcaron una nueva estética revolucionaria, orientada a la propaganda y al diseño social.</div>
-            <div class="div11"><img src="../imagenes/Naum_Gabo.jpg" class="img-fluid" alt=""></div>
+            <div class="div11"><img src="../imagenes/Varvara Stepánova.jpg" class="img-fluid" alt=""></div>
             <div class="div12">Varvara Stepánova (1894–1958):Diseñadora, pintora y tipógrafa, colaboró estrechamente con Alexander Rodchenko. Defendía que el arte debía integrarse en la producción industrial, especialmente en la moda y el diseño textil. Su obra exploró patrones geométricos y colores planos, buscando funcionalidad y accesibilidad para el pueblo, en coherencia con los ideales del nuevo régimen soviético.</div>
-            <div class="div13"><img src="../imagenes/Naum_Gabo.jpg" class="img-fluid" alt=""></div>
+            <div class="div13"><img src="../imagenes/Lyubov_Popova.jpg" class="img-fluid" alt=""></div>
             <div class="div14">Lyubov Popova (1889–1924):Pintora y diseñadora, participó en la transición del cubofuturismo al Constructivismo. Su obra se caracteriza por composiciones abstractas y geométricas que investigan la relación entre color, estructura y ritmo. Más tarde aplicó sus principios artísticos al diseño textil y escenográfico, buscando un arte funcional y colectivo.</div>
-            <div class="div15"><img src="../imagenes/Naum_Gabo.jpg" class="img-fluid" alt=""></div>
+            <div class="div15"><img src="../imagenes/Gustav_Klutsis.jpg" class="img-fluid" alt=""></div>
             <div class="div16">Gustav Klutsis (1895–1938):Artista gráfico y fotógrafo, fue uno de los grandes innovadores del fotomontaje político soviético. Utilizó imágenes dinámicas, diagonales y contrastes fuertes para transmitir mensajes revolucionarios. Su obra representó el ideal constructivista de unir arte, comunicación y compromiso social.</div>
         
         </div>

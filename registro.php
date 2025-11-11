@@ -10,7 +10,7 @@ $consulta = "SELECT * FROM usuarios WHERE correo='$correo'";
 $resultado = mysqli_query($conexion, $consulta);
 
 if (mysqli_num_rows($resultado) > 0) {
-    echo "❌ Este correo ya está registrado. <a href='form_login.php'>Inicia sesión</a>;" #cambio lugar comillas
+    echo "❌ Este correo ya está registrado. <a href='form_login.php'>Inicia sesión</a>;" 
 } else {
     $insertar = "INSERT INTO usuarios (nombre, correo, contrasena)
                  VALUES ('$nombre', '$correo', '$contrasena')";

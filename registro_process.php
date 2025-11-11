@@ -12,7 +12,7 @@ $sql = "INSERT INTO usuarios (nombre, email, password_hash) VALUES ('$nombre', '
 
 if (mysqli_query($conexion, $sql)) {
 
-    echo "Usuario registrado correctamente. <a href='login.php'>Iniciar sesión</a>;"# cambio lugar comillas
+    echo "Usuario registrado correctamente. <a href='login.php'>Iniciar sesión</a>;"
 
 } else {
     
