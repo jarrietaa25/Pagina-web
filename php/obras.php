@@ -41,6 +41,7 @@ if (!isset($_SESSION['nombre'])) {
         <div class="letras">
           <p class="titulo1">Construccion espiral (1926) Antoine Pevsner.</p>
           </div>
+          </div>
       
       <div>
         <img src="../imagenes/10.jpg" class="img-fluid"alt="imagenes">
@@ -48,13 +49,31 @@ if (!isset($_SESSION['nombre'])) {
         <p class="titulo1">Contrarrelieve de esquina (1914) vladimir tatlin.</p>
         </div>
       </div>
+
       <div>
         <img src="../imagenes/8.jpg" class="img-fluid" alt="imagenes">
       <div class="letras">
         <p class="titulo1">Cabeza nº 2 (1916) Naum Gabo.</p>
         </div>
       </div>
-    </div>
+
+      <div>
+        <img src="../imagenes/new-man-1923.jpg!Large.jpg" class="img-fluid" alt="imagenes">
+      <div class="letras">
+        <p class="titulo1">New Man (1923) El Lisitski.</p>
+        </div>
+      </div>
+    
+      <div>
+        <img src="../imagenes/1915_Dance_by_Rodchenko.jpg" class="img-fluid" alt="imagenes">
+      <div class="letras">
+        <p class="titulo1">Danza (1915) Aleksandr Ródchenko.</p>
+        </div>
+      </div>
+
+
+
+
 <div class="footer-basic">
         <footer>
           <div >

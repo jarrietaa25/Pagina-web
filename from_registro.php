@@ -7,7 +7,7 @@
 </head>
 <body class="fondo">
     <h2>Formulario de Registro</h2>
-    <form action="registro.php" method="POST">  #A DONDE VAN LOS DADOS  Y COMO VAN A SER GUARDADOS 
+    <form action="registro.php" method="POST">  
         <label class="box">Nombre:</label>
         <input type="text" name="nombre" required><br><br>
 

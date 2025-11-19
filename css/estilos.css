@@ -10,6 +10,7 @@
   margin: auto;
   padding: auto;
   justify-content: center;
+  text-align:center;  
 }
 
 .titulos{
@@ -19,7 +20,9 @@
   font-style : normal;
   padding: 3vw;
   align-content: left;
-  text-align: center; 
+  text-align: center;
+  border-color: red; 
+  background-color: rgb(193, 182, 182);
 }
 
 .texto3{
