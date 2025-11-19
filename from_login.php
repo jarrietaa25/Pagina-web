@@ -21,7 +21,7 @@
     <p class="texto">Volver a la home <a href="index.php">Home</a></p>
 </body>
 
-<div class="footer-basic">
+<div class="footer-basic"> 
     </div>
 
 
