@@ -14,7 +14,7 @@
         <label class="box">Contraseña:</label>
         <input type="password" name="contrasena" required><br><br>
 
-        <button type="submit" class="texto">Ingresar</button>
+        <button type="submit" class="box">Ingresar</button>
     </form>
 
     <p class="texto">¿No tienes cuenta? <a href="from_registro.php">Regístrate</a></p>
