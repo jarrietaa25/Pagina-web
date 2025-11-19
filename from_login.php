@@ -16,6 +16,7 @@
         <button type="submit">Ingresar</button>
     </form>
 
-    <p>¿No tienes cuenta? <a href="form_registro.php">Regístrate</a></p>
+    <p>¿No tienes cuenta? <a href="from_registro.php">Regístrate</a></p>
+    <p>Volver a la home <a href="index.php">Home</a></p>
 </body>
 </html>

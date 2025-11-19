@@ -1,6 +1,11 @@
 <?php
-include("conexion.php");
-
+include("../conexion.php");
+session_start();
+if (!isset($_SESSION['nombre'])) {
+    header("Location: ../from_login.php");
+    exit;
+}
+?>  
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 </style>
@@ -27,6 +32,7 @@ include("conexion.php");
           <li><a class="menubar" class="texto3" href="../php/historia.php">HISTORIA</a></li>
           <li><a class="menubar" class="texto3" href="../php/galeria.php">GALERIA</a></li>
           <li><a class="menubar" class="texto3" href="../php/contacto.php">CONTACTO</a></li>
+          <li><a class="menubar" class="texto3" href="../salir.php">CERRAR SESIÓN</a></li>
         </ul>
        </nav> 
       </div>  

@@ -6,6 +6,5 @@ if (!$conexion) {
     die("Error al conectar con la base de datos: " . mysqli_connect_error());
 }
 
-
-mysqli_close($conexion);
+// No cerrar la conexión aquí, se cerrará al final del script PHP
 ?>
