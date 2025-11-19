@@ -99,7 +99,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $asunto = $_POST["asunto"];
     $mensaje = $_POST["mensaje"];
 
-    $para = "tu_correo@ejemplo.com"; // Cambiá por tu correo
+    $para = "jarrie4@palermo.edu"; // Cambiá por tu correo
     $cabeceras = "From: $email";
 
     if (mail($para, $asunto, $mensaje, $cabeceras)) {

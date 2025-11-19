@@ -1,0 +1,53 @@
+.fondo{
+  background-color:lightgray;
+}
+
+
+h2{
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+}
+
+
+
+  .contacto{text-align: center;}
+  
+
+  h1 {
+    font-family: "Kode Mono", monospace;
+    text-align: center;
+    margin: 35px 0 20px 0 !important;
+    font-size: 4.5vw;
+  }
+ 
+.box{
+
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: large;
+  font-weight: weight;
+  font-style : normal; 
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+  text-align:center;
+  background-color: gray;
+  color: black;
+  border-color: red;}
+
+.texto{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: large;
+    font-weight: weight;
+    font-style : normal; 
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+    text-align:center;
+}
+
+ 

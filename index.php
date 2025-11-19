@@ -21,7 +21,13 @@ include("conexion.php");
     <link rel="icon" href="./imagenes/icono.png">
 </head>
 <body >
+
 <div class="fondo">
+  <main>
+        <div> 
+             <h1 class="texto1">CONSTRUCTIVISMO</h1>
+             
+      </div> 
     <nav>
         <ul class="navbar">
           <li><a class="menubar texto3" href="index.php">INICIO</a></li>
@@ -33,11 +39,7 @@ include("conexion.php");
           <li><a class="menubar texto3" href="salir.php">CERRAR SESIÓN</a></li>
         </ul>
     </nav>
-    <main>
-        <div> 
-             <h1 class="texto1">CONSTRUCTIVISMO</h1>
-             <img href="login.php" src="../imagenes/inicio.png" alt="icino" class="img-fluid4">
-      </div> 
+    
         
 
 
