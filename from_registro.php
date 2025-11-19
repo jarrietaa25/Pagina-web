@@ -24,14 +24,5 @@
 </body>
 
 <div class="footer-basic">
-        <footer>
-          <div >
-            <img src="../imagenes/forma-abstracta.png" class="img-fluid2" alt="icon" >
-            <img src="../imagenes/logos-wta-up-top-ch.png" class="img-fluid3" alt="icon" >
-          </div>
-            <p class="Nombre">JUANA ARRIETA © 2025</p>
-          
-           
-        </footer>
     </div>
 </html>
