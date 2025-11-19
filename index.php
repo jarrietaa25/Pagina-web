@@ -18,7 +18,7 @@ include("<Programacion>conexion.php");
     <link rel="stylesheet" href="Programacion/css/estilos.css">
     <title>CONSTRUCTIVISMO</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css">
-    <link rel="icon" href="./imagenes/icono.png">
+    <link rel="icon" href="Programacion/imagenes/icono.png">
 </head>
 <body >
 
@@ -45,7 +45,7 @@ include("<Programacion>conexion.php");
 
     <h1 class="titulos">El constructivismo es una corriente de pensamiento que afirma que el conocimiento se construye activamente por el individuo, en lugar de ser recibido de forma pasiva. 
     </h1>
-     <img src="./imagenes/index1.jpg" class="img-fluid" alt="imagenes">
+     <img src="Programacion/imagenes/index1.jpg" class="img-fluid" alt="imagenes">
     <div class="cuadro">
     <h1 class="titulos">
         Manifiesto
@@ -60,8 +60,8 @@ include("<Programacion>conexion.php");
          <p class="texto">“El espacio, la línea y el color son materiales de construcción social.”</p>
          <p class="texto">“El arte para el arte muere; el arte para la vida nace.”</p>
     </div></div>
-    <div class="col"><img src="./imagenes/Louis Bowes.jpg" class="img-fluid" alt="imagenes"></div>
-    <div class="col"><img src="./imagenes/download.jpg" class="img-fluid" alt="imagenes"></div>
+    <div class="col"><img src="Programacion/imagenes/Louis Bowes.jpg" class="img-fluid" alt="imagenes"></div>
+    <div class="col"><img src="Programacion/imagenes/download.jpg" class="img-fluid" alt="imagenes"></div>
     <div class="col"><div>
          <p class="texto">“Geometría, ritmo y orden: herramientas para un nuevo mundo.”</p>
          <p class="texto">“El objeto artístico se transforma en objeto productivo.”</p>
@@ -77,8 +77,8 @@ include("<Programacion>conexion.php");
   <div class="footer-basic">
         <footer>
           <div >
-            <img src="./imagenes/forma-abstracta.png" class="img-fluid2" alt="icon" >
-            <img src="./imagenes/logos-wta-up-top-ch.png" class="img-fluid3" alt="icon" >
+            <img src="Programacion/imagenes/forma-abstracta.png" class="img-fluid2" alt="icon" >
+            <img src="Programacion/imagenes/logos-wta-up-top-ch.png" class="img-fluid3" alt="icon" >
           </div>
             <p class="Nombre">JUANA ARRIETA © 2025</p>
           
