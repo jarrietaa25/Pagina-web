@@ -25,16 +25,17 @@ if (!isset($_SESSION['nombre'])) {
         <div> 
              <h1 class="texto1">CONSTRUCTIVISMO</h1>
      <nav>
+        <nav>
         <ul class="navbar">
-          <li><a class="menubar" class="texto3" href="../index.php">INICIO</a></li>
-          <li><a class="menubar" class="texto3" href="../php/artistas.php">ARTISTAS</a></li>
-          <li><a class="menubar" class="texto3" href="../php/obras.php">OBRAS</a></li>
-          <li><a class="menubar" class="texto3" href="../php/historia.php">HISTORIA</a></li>
-          <li><a class="menubar" class="texto3" href="../php/galeria.php">GALERIA</a></li>
-          <li><a class="menubar" class="texto3" href="../php/contacto.php">CONTACTO</a></li>
-          <li><a class="menubar" class="texto3" href="../salir.php">CERRAR SESIÓN</a></li>
+          <li><a class="menubar texto3" href="index.php">INICIO</a></li>
+          <li><a class="menubar texto3" href="Programacion/php/artistas.php">ARTISTAS</a></li>
+          <li><a class="menubar texto3" href="Programacion/php/obras.php">OBRAS</a></li>
+          <li><a class="menubar texto3" href="Programacion/php/historia.php">HISTORIA</a></li>
+          <li><a class="menubar texto3" href="Programacion/php/galeria.php">GALERIA</a></li>
+          <li><a class="menubar texto3" href="Programacion/php/contacto.php">CONTACTO</a></li>
+          <li><a class="menubar texto3" href="Programacion/salir.php">CERRAR SESIÓN</a></li>
         </ul>
-       </nav> 
+    </nav> 
       </div>  
      <div class="contacto">
         <h1>MANTENETE UNIDO CON NOSOTROS</h1>
