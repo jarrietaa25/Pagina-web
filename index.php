@@ -25,7 +25,7 @@ include("<Programacion>conexion.php");
 <div class="fondo">
   <main>
         <div> 
-             <h1 class="texto1">CONSTRUCTIVISMO</h1>
+             <h1 class="texto1">"CONSTRUCTIVISMO"</h1>
              
       </div> 
     <nav>
